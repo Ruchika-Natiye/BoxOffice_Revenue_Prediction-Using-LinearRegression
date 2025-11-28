@@ -92,15 +92,7 @@ The dataset contains multiple features including:
 
 ### Evaluating Model Performance on Training and Validation Sets
 
-![]()
-
-
-
-
-
-
-
-
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/c1183f0861692e2a1fef803399d1af88ab661cd1/i12.png)
 
 ## ✅ Final Output
 * Error
@@ -109,4 +101,3 @@ The dataset contains multiple features including:
 
 * Model ready for deployment on unseen movie data
 
-## 
