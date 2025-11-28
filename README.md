@@ -56,7 +56,7 @@ The dataset contains multiple features including:
 
 ### Checking & Handling Missing Values 
 
-![]()
+![](https://media.geeksforgeeks.org/wp-content/uploads/20240929170344/Screenshot-2024-09-29-165843.png)
 
 ### Visualizing MPAA Rating Distribution
 
