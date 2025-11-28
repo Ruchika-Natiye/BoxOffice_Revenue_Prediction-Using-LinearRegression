@@ -80,7 +80,7 @@ The dataset contains multiple features including:
 
 ### Removing Rare Genre Columns with Mostly Zero Values
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/cd508c40fab7be5d1d68b81a47580dbcafd3095a/i9.png)
 
 ### Visualizing Strong Correlations Between Numeric Features
 
