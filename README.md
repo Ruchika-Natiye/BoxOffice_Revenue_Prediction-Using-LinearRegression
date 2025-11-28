@@ -72,7 +72,7 @@ The dataset contains multiple features including:
 
 ### Detecting Outliers Using Boxplots
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/24154ae1916db5688a26644822258e7863ff779a/i7.png)
 
 ### Checking Distributions After Log Transformation
 
