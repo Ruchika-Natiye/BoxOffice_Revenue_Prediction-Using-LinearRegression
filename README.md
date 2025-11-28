@@ -48,7 +48,7 @@ The dataset contains multiple features including:
 
 ### Checking Dataset Size & Data Types
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/3a048ca01ede976cc520efd1269abdf6faf864b3/i2.png)
 
 ### Exploring the Dataset
 
