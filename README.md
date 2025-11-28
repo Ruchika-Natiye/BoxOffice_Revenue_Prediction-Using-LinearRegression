@@ -52,7 +52,7 @@ The dataset contains multiple features including:
 
 ### Exploring the Dataset
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/a00ff29dd15b57a3c4f8ea4ba347be779a1f3feb/i3.png)
 
 ### Checking & Handling Missing Values 
 
