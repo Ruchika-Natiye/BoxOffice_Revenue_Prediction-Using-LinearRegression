@@ -64,7 +64,7 @@ The dataset contains multiple features including:
 
 ### Average Domestic Revenue by MPAA Rating
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/a3f696d5c34523cb7f14e037f8f4a17d2549b0c2/i5.png)
 
 ### Visualizing Distributions of Key Numeric Features
 
