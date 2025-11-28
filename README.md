@@ -44,7 +44,7 @@ The dataset contains multiple features including:
 ## 🧹 Step-by-Step Code Working
 ### Loading the dataset into a pandas DataFrame
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/dd340c2e3d36ce4be18bbee1fa5b7cd66e10b2a2/i1.png)
 
 ### Checking Dataset Size & Data Types
 
