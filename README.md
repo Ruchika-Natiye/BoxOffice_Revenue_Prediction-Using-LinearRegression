@@ -76,7 +76,7 @@ The dataset contains multiple features including:
 
 ### Checking Distributions After Log Transformation
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/a609df5a26a7ea6236b59ced27a2a3ca95bcdf11/i8.png)
 
 ### Removing Rare Genre Columns with Mostly Zero Values
 
