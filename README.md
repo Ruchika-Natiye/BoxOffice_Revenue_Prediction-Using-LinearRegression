@@ -84,7 +84,7 @@ The dataset contains multiple features including:
 
 ### Visualizing Strong Correlations Between Numeric Features
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/a6d4c129cd8279045ad96c99b11f31996b1fc8ff/i10.png)
 
 ### Preparing Data for Model Training and Validation
 
