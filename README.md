@@ -88,7 +88,7 @@ The dataset contains multiple features including:
 
 ### Preparing Data for Model Training and Validation
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/fc3a855fae9dd1d3eea94afeaf8e5b6cc993b603/i11.png)
 
 ### Evaluating Model Performance on Training and Validation Sets
 
