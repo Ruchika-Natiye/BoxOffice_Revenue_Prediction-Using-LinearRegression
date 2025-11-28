@@ -68,7 +68,7 @@ The dataset contains multiple features including:
 
 ### Visualizing Distributions of Key Numeric Features
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/2a055aaaaca2124f803aeff8f3275f9f15d70b58/i6.png)
 
 ### Detecting Outliers Using Boxplots
 
