@@ -60,7 +60,7 @@ The dataset contains multiple features including:
 
 ### Visualizing MPAA Rating Distribution
 
-![]()
+![](https://github.com/Ruchika-Natiye/BoxOffice_Revenue_Prediction-Using-LinearRegression/blob/7060d3ef8ea9f451516ee849a2c1fbcc80237de4/i4.png)
 
 ### Average Domestic Revenue by MPAA Rating
 
